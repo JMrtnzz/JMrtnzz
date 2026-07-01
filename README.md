@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hola, soy RocKG 👋
+# Hola, soy Juanse Martínez 👋
 
-**Desarrollador web · FiveM · automatización**
+**Desarrollador Web · FiveM · Automatización**
 
 Construyo sitios corporativos, herramientas web, bots y recursos para servidores de roleplay.
 
