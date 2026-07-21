@@ -82,7 +82,7 @@ I'm comfortable across **frontend**, **backend**, and **FiveM environments**, pr
 |---------|-------------|------|-------|
 | [**Portafolio**](https://github.com/JMrtnzz/Portafolio) | Personal portfolio (RocKG) — web, FiveM, RP tools, and Kick streaming | [Live](https://portafolio-nine-blue-65.vercel.app/) | Next.js · React · Tailwind · Framer Motion |
 | [**AsociacionAPIC**](https://github.com/JMrtnzz/AsociacionAPIC) | Institutional site for APIC — memberships, events, magazine, and virtual library | [Live](https://asociacion-apic.vercel.app/) | Next.js · TypeScript · Tailwind · Framer Motion |
-| [**InstitutoFDI**](https://github.com/JMrtnzz/InstitutoFDI) | Bilingual institutional site (ES/EN) with course catalog, SEO, and forms | [Live](https://instituto-fdi.vercel.app/) | Next.js · React · Tailwind · Zod |
+| [**InstitutoFDI**](https://github.com/JMrtnzz/InstitutoFDI) | Bilingual institutional site (ES/EN) with course catalog, SEO, and forms | [Live](https://instituto-fdi.vercel.app/) | Next.js 16 · React · Tailwind · Zod |
 | [**MGConsultores**](https://github.com/JMrtnzz/MGConsultores) | Corporate landing for Mejía Gómez Consultores — accounting & tax services | [Live](https://mg-consultores-silk.vercel.app/) | Vue 3 · Vite · Vue Router · Resend |
 | [**ApiPoligrafia**](https://github.com/JMrtnzz/ApiPoligrafia) | Corporate site for the American Polygraph Institute — i18n, themes, CRM webhook | [Live](https://api-poligrafia.vercel.app/) | Next.js · TypeScript · Framer Motion |
 | [**Crypto-AI-Fund-Manager**](https://github.com/JMrtnzz/Crypto-AI-Fund-Manager) | AI SaaS fund analyst — technical, fundamental, sentiment & on-chain scoring | — | Next.js · FastAPI · PostgreSQL · Redis · OpenAI |
@@ -215,7 +215,7 @@ Me muevo con comodidad entre **frontend**, **backend** y **entornos FiveM**, pri
 |----------|-------------|------|-------|
 | [**Portafolio**](https://github.com/JMrtnzz/Portafolio) | Portafolio personal (RocKG) — web, FiveM, herramientas RP y streaming en Kick | [Live](https://portafolio-nine-blue-65.vercel.app/) | Next.js · React · Tailwind · Framer Motion |
 | [**AsociacionAPIC**](https://github.com/JMrtnzz/AsociacionAPIC) | Sitio institucional de APIC — membresías, eventos, revista y biblioteca virtual | [Live](https://asociacion-apic.vercel.app/) | Next.js · TypeScript · Tailwind · Framer Motion |
-| [**InstitutoFDI**](https://github.com/JMrtnzz/InstitutoFDI) | Sitio institucional bilingüe (ES/EN) con catálogo de cursos, SEO y formularios | [Live](https://instituto-fdi.vercel.app/) | Next.js · React · Tailwind · Zod |
+| [**InstitutoFDI**](https://github.com/JMrtnzz/InstitutoFDI) | Sitio institucional bilingüe (ES/EN) con catálogo de cursos, SEO y formularios | [Live](https://instituto-fdi.vercel.app/) | Next.js 16 · React · Tailwind · Zod |
 | [**MGConsultores**](https://github.com/JMrtnzz/MGConsultores) | Landing corporativa de Mejía Gómez Consultores — servicios contables y fiscales | [Live](https://mg-consultores-silk.vercel.app/) | Vue 3 · Vite · Vue Router · Resend |
 | [**ApiPoligrafia**](https://github.com/JMrtnzz/ApiPoligrafia) | Web corporativa del Instituto Americano de Poligrafía — i18n, temas y webhook CRM | [Live](https://api-poligrafia.vercel.app/) | Next.js · TypeScript · Framer Motion |
 | [**Crypto-AI-Fund-Manager**](https://github.com/JMrtnzz/Crypto-AI-Fund-Manager) | SaaS de IA como analista de fondo — scoring técnico, fundamental, sentimiento y on-chain | — | Next.js · FastAPI · PostgreSQL · Redis · OpenAI |
