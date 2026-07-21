@@ -84,11 +84,11 @@ I'm comfortable across **frontend**, **backend**, and **FiveM environments**, pr
 | [**AsociacionAPIC**](https://github.com/JMrtnzz/AsociacionAPIC) | Institutional site for APIC — memberships, events, magazine, and virtual library | [Live](https://asociacion-apic.vercel.app/) | Next.js · TypeScript · Tailwind · Framer Motion |
 | [**InstitutoFDI**](https://github.com/JMrtnzz/InstitutoFDI) | Bilingual institutional site (ES/EN) with course catalog, SEO, and forms | [Live](https://instituto-fdi.vercel.app/) | Next.js · React · Tailwind · Zod |
 | [**MGConsultores**](https://github.com/JMrtnzz/MGConsultores) | Corporate landing for Mejía Gómez Consultores — accounting & tax services | [Live](https://mg-consultores-silk.vercel.app/) | Vue 3 · Vite · Vue Router · Resend |
-| [**ApiPoligrafia**](https://github.com/JMrtnzz/ApiPoligrafia) | Corporate site for the American Polygraph Institute — i18n, themes, CRM webhook | — | Next.js · TypeScript · Framer Motion |
+| [**ApiPoligrafia**](https://github.com/JMrtnzz/ApiPoligrafia) | Corporate site for the American Polygraph Institute — i18n, themes, CRM webhook | [Live](https://api-poligrafia.vercel.app/) | Next.js · TypeScript · Framer Motion |
 | [**Crypto-AI-Fund-Manager**](https://github.com/JMrtnzz/Crypto-AI-Fund-Manager) | AI SaaS fund analyst — technical, fundamental, sentiment & on-chain scoring | — | Next.js · FastAPI · PostgreSQL · Redis · OpenAI |
 | [**SongKICK**](https://github.com/JMrtnzz/SongKICK) | Kick ↔ Spotify queue via redemptions, OAuth, and webhooks | — | Next.js · Prisma · PostgreSQL |
 | [**Alertas-RocKG**](https://github.com/JMrtnzz/Alertas-RocKG) | Custom Kick alert pack for Botrix / OBS (follow, sub, gifts, tips) | — | HTML · CSS · JavaScript |
-| [**Calculadora-Multas**](https://github.com/JMrtnzz/Calculadora-Multas) | **Multify** — fines, jail time, and seizure calculator for Family RP | — | HTML · CSS · JavaScript |
+| [**Calculadora-Multas**](https://github.com/JMrtnzz/Calculadora-Multas) | **Multify** — fines, jail time, and seizure calculator for Family RP | [Live](https://calculadora-multas.vercel.app/) | HTML · CSS · JavaScript |
 | [**TunerShop**](https://github.com/JMrtnzz/TunerShop) | Tuning materials & pricing calculator for RP workshops | [Live](https://tuner-shop.vercel.app/) | HTML · CSS · Alpine.js |
 | [**bot-turnos**](https://github.com/JMrtnzz/bot-turnos) | Discord bot for shift management with logs and database | — | Python · discord.py · SQLite |
 | [**RocKG-Server**](https://github.com/JMrtnzz/RocKG-Server) | FiveM server base and resources (QBX, ox, custom scripts) | — | Lua · FiveM · Node |
@@ -217,11 +217,11 @@ Me muevo con comodidad entre **frontend**, **backend** y **entornos FiveM**, pri
 | [**AsociacionAPIC**](https://github.com/JMrtnzz/AsociacionAPIC) | Sitio institucional de APIC — membresías, eventos, revista y biblioteca virtual | [Live](https://asociacion-apic.vercel.app/) | Next.js · TypeScript · Tailwind · Framer Motion |
 | [**InstitutoFDI**](https://github.com/JMrtnzz/InstitutoFDI) | Sitio institucional bilingüe (ES/EN) con catálogo de cursos, SEO y formularios | [Live](https://instituto-fdi.vercel.app/) | Next.js · React · Tailwind · Zod |
 | [**MGConsultores**](https://github.com/JMrtnzz/MGConsultores) | Landing corporativa de Mejía Gómez Consultores — servicios contables y fiscales | [Live](https://mg-consultores-silk.vercel.app/) | Vue 3 · Vite · Vue Router · Resend |
-| [**ApiPoligrafia**](https://github.com/JMrtnzz/ApiPoligrafia) | Web corporativa del Instituto Americano de Poligrafía — i18n, temas y webhook CRM | — | Next.js · TypeScript · Framer Motion |
+| [**ApiPoligrafia**](https://github.com/JMrtnzz/ApiPoligrafia) | Web corporativa del Instituto Americano de Poligrafía — i18n, temas y webhook CRM | [Live](https://api-poligrafia.vercel.app/) | Next.js · TypeScript · Framer Motion |
 | [**Crypto-AI-Fund-Manager**](https://github.com/JMrtnzz/Crypto-AI-Fund-Manager) | SaaS de IA como analista de fondo — scoring técnico, fundamental, sentimiento y on-chain | — | Next.js · FastAPI · PostgreSQL · Redis · OpenAI |
 | [**SongKICK**](https://github.com/JMrtnzz/SongKICK) | Kick ↔ Spotify: cola de reproducción vía redenciones, OAuth y webhooks | — | Next.js · Prisma · PostgreSQL |
 | [**Alertas-RocKG**](https://github.com/JMrtnzz/Alertas-RocKG) | Pack de alertas custom para Kick + Botrix / OBS (follow, sub, gifts, tips) | — | HTML · CSS · JavaScript |
-| [**Calculadora-Multas**](https://github.com/JMrtnzz/Calculadora-Multas) | **Multify** — calculadora de multas, meses e incautación para Family RP | — | HTML · CSS · JavaScript |
+| [**Calculadora-Multas**](https://github.com/JMrtnzz/Calculadora-Multas) | **Multify** — calculadora de multas, meses e incautación para Family RP | [Live](https://calculadora-multas.vercel.app/) | HTML · CSS · JavaScript |
 | [**TunerShop**](https://github.com/JMrtnzz/TunerShop) | Calculadora de materiales y precios para taller de tuning en RP | [Live](https://tuner-shop.vercel.app/) | HTML · CSS · Alpine.js |
 | [**bot-turnos**](https://github.com/JMrtnzz/bot-turnos) | Bot de Discord para gestión de turnos con logs y base de datos | — | Python · discord.py · SQLite |
 | [**RocKG-Server**](https://github.com/JMrtnzz/RocKG-Server) | Base y recursos de servidor FiveM (QBX, ox, scripts custom) | — | Lua · FiveM · Node |
